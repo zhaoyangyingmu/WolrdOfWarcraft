@@ -1,6 +1,12 @@
 # WorldOfWarcraft
 ### 这个项目是一个简单的项目，用来实践java的包管理，继承和多态。
-##学到的东西
+## 设计描述
+暂略
+
+## uml类图
+![uml](https://raw.githubusercontent.com/zhaoyangyingmu/WorldOfWarcraft/master/uml_class.jpg)
+
+## 学到的东西
 * intellij自动画图
 + 右击->layout->organic layout，这个会好用很多。
 + 选中目标按c收缩，按e扩展。这样就不用每次手动添加一大堆类了。（tip: 先收缩在扩展）
